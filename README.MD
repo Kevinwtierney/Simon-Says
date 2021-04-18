@@ -1,0 +1,1 @@
+This is a web application of the Simon Says Game
